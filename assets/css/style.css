@@ -1,0 +1,26 @@
+#footer-text-contact {
+    font-size: 10px;
+}
+
+#footer-text-index {
+    font-size: 10px;
+}
+
+#footer-text-portfolio {
+    font-size: 10px;
+}
+
+.card-header {
+    font-size: 24px;
+}
+
+#image-card {
+    float: left;
+	width: 240px;
+    height: 240px;
+    margin-right: 14px;
+}
+
+.card-body {
+    overflow: auto;
+}
