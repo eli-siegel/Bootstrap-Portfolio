@@ -24,3 +24,22 @@
 .card-body {
     overflow: auto;
 }
+
+.col-sm-6 {
+    margin-bottom: 40px;
+}
+
+h5 {
+    text-decoration: none;
+    color: black;
+    background-color: lightgray;
+    width: 300px;
+    text-align: center;
+    position: relative;
+    bottom: 45px;
+    border: solid black 0.5px;
+}
+
+body {
+    background-color: lightgray;
+}
